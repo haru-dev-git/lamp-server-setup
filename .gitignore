@@ -1,0 +1,29 @@
+# Credentials and environment variables
+.env
+.env.*
+wp-config.php
+*.key
+*.pem
+
+# Logs
+*.log
+
+# Virtual machines
+*.vdi
+*.vmdk
+*.ova
+*.ovf
+
+# Archives
+*.tar.gz
+*.zip
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
